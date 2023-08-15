@@ -16,7 +16,7 @@ sw역량 및 협업 능력을 강화하고, 학우들간의 연대 및 협업의
 
 | 이지스퍼블리싱 | 한빛미디어 | 디코딩 |
 | :---: | :---: | :---: |
-| :---: | :---: | :---: |
+| ![다운로드](https://github.com/2023-CodewithDuksung/.github/assets/114045826/28dd9cfd-bc23-415d-a7c3-11d06df0bbc4) | ![Hanbitmedia CI](https://github.com/2023-HERETHON/2023-Herethon-12/assets/114045826/08915f22-1027-4b2c-acf7-538e1a672023) | ![decoding_Logo](https://github.com/2023-HERETHON/2023-Herethon-12/assets/114045826/596fb9fd-fd83-4640-a1fe-0a7f345e2cff) |
 <br>
 
 ## **주최·주관**
